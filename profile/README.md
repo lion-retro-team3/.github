@@ -3,6 +3,18 @@
 
 ---
 
+### 🛠️ Our Technical Skills
+<!-- ![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java) -->
+<!--![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring) -->
+<!--!![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot) -->
+<!--!![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) -->
+<!--!![HTML](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5) -->
+<!--!![CSS](https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3) -->
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+
+---
+
 ## 🧑🏻‍💻 Our Team
 ### 정다희 (Team Leader)
 - [![정다희](https://img.shields.io/badge/-daheenamic-05122A?style=flat&logo=GitHub)](https://github.com/star1431)
@@ -43,15 +55,3 @@
 - [![이승훈](https://img.shields.io/badge/-username-05122A?style=flat&logo=GitHub)](https://github.com/username)
 - [![Gmail](https://img.shields.io/badge/-username@gmail.com-05122A?style=flat&logo=Gmail)](mailto:username@gmail.com)
 - 한마디
-
----
-
-### 🛠️ Technical Skills
-<!-- ![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java) -->
-<!--![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring) -->
-<!--!![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot) -->
-<!--!![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) -->
-<!--!![HTML](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5) -->
-<!--!![CSS](https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3) -->
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=github)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
