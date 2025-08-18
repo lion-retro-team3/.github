@@ -33,7 +33,7 @@
 
 ### 김한울
 - [![김한울](https://img.shields.io/badge/-kkhw1000-05122A?style=flat&logo=GitHub)](https://github.com/kkhw1000)
-- [![Gmail](https://img.shields.io/badge/-username@gmail.com-05122A?style=flat&logo=Gmail)](mailto:kkhw1000@gmail.com)
+- [![Gmail](https://img.shields.io/badge/-kkhw1000@gmail.com-05122A?style=flat&logo=Gmail)](mailto:kkhw1000@gmail.com)
 - 좋은 코드를 만드는 개발자로 성장하겠습니다!
   
 ### 이현준
