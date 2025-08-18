@@ -39,7 +39,7 @@
 ### 이현준
 - [![이현준](https://img.shields.io/badge/-saintzia-05122A?style=flat&logo=GitHub)](https://github.com/saintzia)
 - [![Gmail](https://img.shields.io/badge/-username@gmail.com-05122A?style=flat&logo=Gmail)](mailto:username@gmail.com)
-- 한마디
+- 열심히하겠습니다. 잘부탁드립니다!
 
 ### 정병천
 - [![정병천](https://img.shields.io/badge/-star1431-05122A?style=flat&logo=GitHub)](https://github.com/star1431)
