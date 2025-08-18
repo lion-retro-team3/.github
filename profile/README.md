@@ -29,7 +29,7 @@
 ### 김재현
 - [![김재현](https://img.shields.io/badge/-kimjaehyun7-05122A?style=flat&logo=GitHub)](https://github.com/kimjaehyun7)
 - [![Gmail](https://img.shields.io/badge/-username@gmail.com-05122A?style=flat&logo=Gmail)](mailto:username@gmail.com)
-- 한마디
+- 배운 것을 모두 제 것으로 만들어 나가겠습니다!!
 
 ### 김한울
 - [![김한울](https://img.shields.io/badge/-kkhw1000-05122A?style=flat&logo=GitHub)](https://github.com/kkhw1000)
