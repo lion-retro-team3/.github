@@ -43,8 +43,8 @@
 
 ### 정병천
 - [![정병천](https://img.shields.io/badge/-star1431-05122A?style=flat&logo=GitHub)](https://github.com/star1431)
-- [![Gmail](https://img.shields.io/badge/-username@gmail.com-05122A?style=flat&logo=Gmail)](mailto:username@gmail.com)
-- 한마디
+- [![Gmail](https://img.shields.io/badge/-bcjung0425@gmail.com-05122A?style=flat&logo=Gmail)](mailto:bcjung0425@gmail.com)
+- 자바 처음 배웁니다. 잘 부탁드립니다.
 
 ### 조인선
 - [![조인선](https://img.shields.io/badge/-Chosunin-05122A?style=flat&logo=GitHub)](https://github.com/Chosunin)
