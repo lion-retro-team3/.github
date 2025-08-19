@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ Our Technical Skills
-<!-- ![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java) -->
+![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java)
 <!--![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring) -->
 <!--!![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot) -->
 <!--!![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) -->
