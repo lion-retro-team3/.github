@@ -5,14 +5,13 @@
 
 ## 🛠️ Our Technical Skills
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat-square&logo=Java)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 <!--![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring) -->
 <!--!![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=SpringBoot) -->
 <!--!![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=Javascript) -->
 <!--!![HTML](https://img.shields.io/badge/HTML-05122A?style=flat-square&logo=HTML5) -->
 <!--!![CSS](https://img.shields.io/badge/CSS-05122A?style=flat-square&logo=CSS3) -->
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=github)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-
 ---
 
 ## 🧑🏻‍💻 Our Team
