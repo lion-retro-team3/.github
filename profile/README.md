@@ -20,7 +20,7 @@
 - [![전진](https://img.shields.io/badge/-jin-05122A?style=flat&logo=GitHub)](https://github.com/jin-YSH)
 - [![Gmail](https://img.shields.io/badge/-jeonjin0704@gmail.com-05122A?style=flat&logo=Gmail)](mailto:jeonjin0704@gmail.com)
 - 조금 먼저 배웠다고 자만하지 않고 복습하고 새롭게 배우며 성장하는 개발자가 되겠습니다.
-- [![Solved.ac Profile](http://mazassumnida.***/api/generate_badge?boj=yusengha)](https://solved.ac/profile/yusengha) 
+
 
 ### 김재현
 - [![김재현](https://img.shields.io/badge/-kimjaehyun7-05122A?style=flat&logo=GitHub)](https://github.com/kimjaehyun7)
