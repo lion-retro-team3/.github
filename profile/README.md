@@ -46,8 +46,3 @@
 - [![조인선](https://img.shields.io/badge/-Chosunin-05122A?style=flat&logo=GitHub)](https://github.com/Chosunin)
 - [![Gmail](https://img.shields.io/badge/-choinsun@g.kmou.ac.kr-05122A?style=flat&logo=Gmail)](mailto:chosinsun@g.kmou.ac.kr)
 - 복습만이 살길! 성장하고 싶습니다! 팀장님 말을 잘 듣자!
-
-### 이대희
-- [![이대희](https://img.shields.io/badge/-daehi-05122A?style=flat&logo=GitHub)](https://github.com/daehi-lee)
-- [![Gmail](https://img.shields.io/badge/-dhsky1000@gmail.com-05122A?style=flat&logo=Gmail)](mailto:dhsky1000@gmail.com)
-- 하루하루 발전하겠습니다!
