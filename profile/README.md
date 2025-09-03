@@ -12,7 +12,7 @@
 
 ## 🧑🏻‍💻 Our Team
 ### 정다희 (Team Leader)
-- [![정다희](https://img.shields.io/badge/-daheenamic-05122A?style=flat&logo=GitHub)](https://github.com/star1431)
+- [![정다희](https://img.shields.io/badge/-daheenamic-05122A?style=flat&logo=GitHub)](https://github.com/daheenamic)
 - [![Gmail](https://img.shields.io/badge/-meluna0226@gmail.com-05122A?style=flat&logo=Gmail)](mailto:meluna0226@gmail.com)
 - 꾸준히 기록하고 회고하며 성장하겠습니다. 👊🏻
 
